@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    margin-top: 100px;
+
+    padding-top: 25px;
+    border: 1px solid red;
+}
+
+header {
+    background-color: aqua;
+    padding: 30px;
+}
+
+.link-header {
+    color: white;
+    padding: 5px;
+}
+
+#main-section {
+    background-color: gray;
+}
